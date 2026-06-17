@@ -1,0 +1,12 @@
+{
+    "name": "CustomUserBadges",
+    "description": "Add a custom badge to your own profile.",
+    "authors": [
+        {
+            "name": "zombie.clanx",
+            "id": "999290874460655616
+        }
+    ],
+    "version": "1.0.0",
+    "main": "index.js"
+}
